@@ -68,3 +68,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ![App Layout](./img/help-queue.png)
+
+![App Layout2](./img/help-queue-with-new-ticket-control.jpg)
